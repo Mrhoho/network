@@ -1,6 +1,6 @@
 {
-  "name": "network",
-  "version": "0.5.0",
+  "name": "network-custom",
+  "version": "0.5.3",
   "description": "Cross platform network utilities for Node.js (gateway_ip, MAC address, etc)",
   "main": "./lib/index.js",
   "scripts": {
@@ -13,15 +13,15 @@
     "async": "^1.5.2",
     "commander": "2.9.0",
     "needle": "1.1.2",
-    "wmic": "^0.1.0"
+    "wmic-custom": "^0.4.2"
   },
   "author": {
-    "name": "Tomas Pollak",
-    "email": "tomas@forkhq.com"
+    "name": "mrhoho",
+    "email": "370280138@qq.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomas/network.git"
+    "url": "https://github.com/Mrhoho/network.git"
   },
   "license": "MIT"
 }
